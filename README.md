@@ -1,24 +1,68 @@
-# README
+# React with Rails
+- A project to show a random greeting 
+# ![](https://img.shields.io/badge/Microverse-blueviolet) rails_react
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- Ruby
+-React
 
-* Configuration
+## Prerequisites
 
-* Database creation
+- Ruby
+- Ruby on Rail
+- nodejs/yarn
+- PostgreSQL
 
-* Database initialization
+## Install
 
-* How to run the test suite
+- Ruby
+- Ruby on Rails(as a gem)
+- Postgresql database
+- nodejs
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
+To get a local copy of the app, run the following commands in your terminal:
+- `git clone https://github.com/yusufnviiri/rails_react`
+- `cd /rails_react`
+- `bundle install`
+- `npm install`
 
-* Deployment instructions
 
-* ...
+Run the following commands to run the app
+
+- `rails db:create`
+- `rails db:migrate`
+- `rails db:seed`
+
+- `bin/dev`
+
+In your browser, go to
+
+- `http://localhost:3000`
+
+## Author
+
+
+## 👤 Yusuf Nviiri
+- GitHub: [@yusufnviiri](https://github.com/yusufnviiri)
+- Twitter: [@YNviiri](https://twitter.com/YNviiri)
+- LinkedIn: [yusufnviiri]( https://www.linkedin.com/in/yusuf-nviiri-8b4146206/)
+***
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/aimalamiri/Ruby-Catalog/issues).
+
+# Acknowledgement
+
+- Hat tip to anyone whose code was a source of inspiration.
+- A big thanks to [@microverseinc](https://github.com/microverseinc).
+## 📝 License
+This project is [MIT](./MIT.md) licensed.
